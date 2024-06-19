@@ -1,6 +1,0 @@
-name: MongoDBConnection
-main: org.minecraft.playermanagement.MongoDBPlugin
-version: 1.0
-api-version: 1.16
-description: A simple plugin to test MongoDB connection.
-author: Aasawari
